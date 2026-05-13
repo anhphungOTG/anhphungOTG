@@ -2,54 +2,52 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Environment-OTG_Lab-orange?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Organization-OTG_Lab-orange?style=for-the-badge&logo=flask" />
 </p>
 
 ---
 
-### 📊 Daily Contribution & Activity 
-*Theo dõi tiến trình đẩy code và cường độ làm việc hàng ngày.*
+### 📊 Tiến độ đẩy code hàng ngày
+*Cường độ làm việc thực tế dựa trên commit mỗi ngày.*
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vap-phung&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vap-phung&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vap-phung&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack Monitoring
-*Các công nghệ chính đang được áp dụng và đánh giá trong Lab.*
+### 📈 Đánh giá chi tiết Repository (OTG-Lab)
+*Các dự án trọng điểm đang triển khai.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=YEARBOOK_PORTAL_REPO&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=ATTENDANCE_BACKEND_REPO&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ Tech Stack Monitoring (Current Lab Projects)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Backend** | `PHP/Laravel` `Node.js/NestJS` `MySQL` `Prisma` |
 | **Frontend** | `Vue.js` `Inertia.js` `TailwindCSS` |
-| **DevOps** | `Docker` `Nginx` `GitHub Actions` `CI/CD` |
+| **DevOps** | `Docker` `Nginx` `GitHub Actions` `aaPanel` |
 
 ---
 
-### 📈 Repo Assessment Metrics
-*Phân tích chi tiết các repository quan trọng nhất đang push lên.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight" />
-</p>
+### 🕒 Hoạt động gần đây (Auto-updated)
+| Hoạt động | Thời gian |
+| :--- | :--- |
+| 🔄 Đang cập nhật hệ thống điểm danh | *Real-time* |
+| 🛡️ Tối ưu bảo mật Backend NestJS | *In-progress* |
 
 ---
 
-### 🕒 Coding Hours (WakaTime)
-*Đánh giá thời gian thực thi code trên các IDE.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p>
-
----
-
-### 📅 Recent Activity
-> **Last updated on:** {{ DATE }}
+### 📅 Last Sync Status
+> **Hệ thống cập nhật lần cuối:** 13/05/2026
