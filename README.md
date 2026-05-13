@@ -11,12 +11,12 @@
 *Real-time tracking of coding intensity and commitment.*
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vap-phung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphungOTG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vap-phung&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="General Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vap-phung&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhphungOTG&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="General Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphungOTG&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
