@@ -14,19 +14,19 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphungOTG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anhphungOTG&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="General Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphungOTG&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
 ### 📈 Repository Assessment Metrics (OTG-Lab)
 *In-depth analytics for key lab projects and middleware.*
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=lasalle-tlsmiddleware&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
