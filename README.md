@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=lasalle-tlsmiddleware&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=attendance-backend&theme=tokyonight" />
 </p>
 
 ---
