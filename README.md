@@ -7,31 +7,32 @@
 
 ---
 
-### 📊 Tiến độ đẩy code hàng ngày
-*Cường độ làm việc thực tế dựa trên commit mỗi ngày.*
+### 📊 Daily Contribution & Velocity
+*Real-time tracking of coding intensity and commitment.*
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vap-phung&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vap-phung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vap-phung&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vap-phung&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-
-### 📈 Đánh giá chi tiết Repository (OTG-Lab)
-*Các dự án trọng điểm đang triển khai.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=YEARBOOK_PORTAL_REPO&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=ATTENDANCE_BACKEND_REPO&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vap-phung&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="General Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vap-phung&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack Monitoring (Current Lab Projects)
+### 📈 Repository Assessment Metrics (OTG-Lab)
+*In-depth analytics for key lab projects and middleware.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=lasalle-tlsmiddleware&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTG-Lab&repo=attendance-backend&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ Tech Stack Monitoring
+*Current technologies actively deployed within OTG-Lab projects.*
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -41,13 +42,14 @@
 
 ---
 
-### 🕒 Hoạt động gần đây (Auto-updated)
-| Hoạt động | Thời gian |
+### 🕒 Recent Activity
+| Task Description | Status |
 | :--- | :--- |
-| 🔄 Đang cập nhật hệ thống điểm danh | *Real-time* |
-| 🛡️ Tối ưu bảo mật Backend NestJS | *In-progress* |
+| 🔄 Refactoring `lasalle-tlsmiddleware` logic | *In-progress* |
+| 🛡️ Implementing Security Middleware | *Active* |
+| ⚙️ Optimizing CI/CD Pipeline for Lab Repos | *Completed* |
 
 ---
 
 ### 📅 Last Sync Status
-> **Hệ thống cập nhật lần cuối:** 13/05/2026
+> **Latest profile synchronization:** 13/05/2026
