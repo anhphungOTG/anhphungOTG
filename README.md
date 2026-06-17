@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Workspace-OTG%20Lab-F97316?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Production%20Projects-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Repos-Private%20%2F%20Organization-64748B?style=for-the-badge&logo=lock&logoColor=white" />
-
 </div>
 
 ---
@@ -34,11 +30,6 @@
 ---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Laravel-Production%20Backend-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-Admin%20Dashboard-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-API%20Automation-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-RBAC%20%26%20Pentest%20Fixes-0F172A?style=for-the-badge&logo=shield&logoColor=white" />
 
 <br/><br/>
 
